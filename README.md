@@ -1,0 +1,2 @@
+- 👋 Hello, I’m @cecerossi 👋
+- 🌱 I’m currently learning HTML, CSS, Web Design
