@@ -1,2 +1,2 @@
-- 👋 Hello, I’m @cecerossi 👋
+- 👋 Hello, I’m Cece 👋
 - 🌱 I’m currently learning HTML, CSS, Web Design
